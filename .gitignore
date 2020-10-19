@@ -6,4 +6,8 @@ sites/*/services*.yml
 sites/*/files
 sites/*/private
 
+# Ignore README.txt
+README.txt
+
+
 
