@@ -21,7 +21,8 @@
         "drupal/core-recommended": "^8.8",
         "drupal/core-vendor-hardening": "^8.8",
         "drupal/gin": "^3.0@alpha",
-        "drupal/gin_toolbar": "^1.0@beta"
+        "drupal/gin_toolbar": "^1.0@beta",
+        "drupal/views_aggregator": "^1.0@beta"
     },
     "conflict": {
         "drupal/drupal": "*"
